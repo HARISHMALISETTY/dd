@@ -1,0 +1,5 @@
+# Virtual environments (covers site-packages inside)
+.venv/
+
+# (Windows/macOS/Linux patterns—only needed if you ever keep site-packages outside a venv)
+*/Lib/site-packages/
